@@ -1,0 +1,16 @@
+{
+  "model": "CNN Baseline - ArASL 32 classes",
+  "device": "cpu",
+  "image_size": 64,
+  "batch_size": 32,
+  "epochs_completed": 30,
+  "best_epoch": 29,
+  "best_validation_accuracy": 0.9925989885284322,
+  "test_accuracy": 0.9901332017760237,
+  "num_classes": 32,
+  "total_images": 54049,
+  "train_images": 37834,
+  "validation_images": 8107,
+  "test_images": 8108,
+  "split_note": "Stratified random image split; not signer-independent because signer IDs are not supplied in the class folders."
+}

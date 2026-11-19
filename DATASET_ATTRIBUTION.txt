@@ -1,0 +1,9 @@
+ArASL2018 / Arabic Alphabets Sign Language Dataset
+
+Latif, Ghazanfar; Mohammad, Nazeeruddin; Alghazo, Jaafar; AlKhalaf, Roaa; AlKhalaf, Rawan (2019).
+ArASL: Arabic Alphabets Sign Language Dataset. Data in Brief, 23, 103777.
+Dataset DOI: 10.17632/y7pckrw6z2.1
+License: Creative Commons Attribution 4.0 International (CC BY 4.0).
+Dataset contains 54,049 images across 32 classes.
+
+When redistributing or publishing results, retain this attribution and comply with CC BY 4.0.
